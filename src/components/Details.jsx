@@ -20,7 +20,7 @@ export const Details = () => {
 					<span className='text-lg font-medium pt-3'>
 						Contact with me via -{' '}
 						<a
-							className='underline font-semibold'
+							className='underline font-semibold hover:bg-slate-300 transition-all'
 							target='_blank'
 							href='https://t.me/fleffydesign'
 						>
@@ -30,7 +30,7 @@ export const Details = () => {
 					<span className='text-lg font-medium pt-3'>
 						My Code -{' '}
 						<a
-							className='underline font-semibold'
+							className='underline font-semibold hover:bg-slate-300 transition-all'
 							target='_blank'
 							href='https://github.com/fleffy'
 						>

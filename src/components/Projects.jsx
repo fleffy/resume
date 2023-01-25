@@ -15,14 +15,14 @@ export const Projects = () => {
 					<span className='text-lg font-medium pt-3'>
 						<div className='flex gap-3'>
 							<a
-								className='underline font-semibold'
+								className='underline font-semibold hover:bg-slate-300 transition-all'
 								target='_blank'
 								href='https://kanban-fleffy.vercel.app/'
 							>
 								View Website
 							</a>
 							<a
-								className='underline font-semibold'
+								className='underline font-semibold hover:bg-slate-300 transition-all'
 								target='_blank'
 								href='https://github.com/fleffy/kanban-board'
 							>
