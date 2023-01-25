@@ -13,8 +13,10 @@ export const LearningNow = () => {
 					<ol>
 						<li>TypeScript</li>
 						<li>Next.Js 13</li>
+						<li>Framer Motion</li>
 					</ol>
 					<ol>
+						<li>NodeJS</li>
 						<li>tRPC</li>
 						<li>Prisma</li>
 					</ol>
