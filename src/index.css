@@ -30,3 +30,25 @@ body {
 html {
 	height: 100%;
 }
+
+/* ===== Scrollbar CSS ===== */
+/* Firefox */
+* {
+	scrollbar-width: auto;
+	scrollbar-color: #1e293b #f2f1ff;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+	width: 16px;
+}
+
+*::-webkit-scrollbar-track {
+	background: #f2f1ff;
+}
+
+*::-webkit-scrollbar-thumb {
+	background-color: #1e293b;
+	border-radius: 0px;
+	border: 3px solid #1e293b;
+}
