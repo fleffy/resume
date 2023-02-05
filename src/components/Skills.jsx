@@ -6,10 +6,10 @@ export const Skills = () => {
 				<div className='flex justify-between w-[300px] font-semibold text-slate-800'>
 					<ol>
 						<li>React</li>
-						<li>JavaScript</li>
 						<li>Redux</li>
-						<li>Tailwind</li>
-						<li>Sanity/Stripe</li>
+						<li>Next.js</li>
+						<li>TypeScript</li>
+						<li>TailwindCSS</li>
 					</ol>
 					<ol>
 						<li>HTML & CSS/Sass</li>

@@ -28,7 +28,7 @@ export const Details = () => {
 						</a>
 					</span>
 					<span className='text-lg font-medium pt-3'>
-						My Code -{' '}
+						My Code -&nbsp;
 						<a
 							className='underline font-semibold hover:bg-slate-300 transition-all'
 							target='_blank'

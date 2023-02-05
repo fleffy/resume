@@ -1,6 +1,6 @@
 export const Education = () => {
 	return (
-		<div className='flex gap-3 flex-col md:flex-row pt-[80px]'>
+		<div className='flex gap-3 flex-col md:flex-row pt-10'>
 			<h3 className='font-bold text-slate-400 min-w-[100px]'>Education</h3>
 			<div className='md:pl-[50px]'>
 				<div className='flex flex-col'>
